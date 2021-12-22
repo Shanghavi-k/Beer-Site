@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-y23ut/static/css/main.03762820.chunk.css",
-    "main.js": "https://.github.io/csb-y23ut/static/js/main.4a640084.chunk.js",
-    "main.js.map": "https://.github.io/csb-y23ut/static/js/main.4a640084.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-y23ut/static/js/runtime-main.7c1e147a.js",
-    "runtime-main.js.map": "https://.github.io/csb-y23ut/static/js/runtime-main.7c1e147a.js.map",
-    "static/js/2.7a5cc5c0.chunk.js": "https://.github.io/csb-y23ut/static/js/2.7a5cc5c0.chunk.js",
-    "static/js/2.7a5cc5c0.chunk.js.map": "https://.github.io/csb-y23ut/static/js/2.7a5cc5c0.chunk.js.map",
-    "index.html": "https://.github.io/csb-y23ut/index.html",
-    "static/css/main.03762820.chunk.css.map": "https://.github.io/csb-y23ut/static/css/main.03762820.chunk.css.map",
-    "static/js/2.7a5cc5c0.chunk.js.LICENSE.txt": "https://.github.io/csb-y23ut/static/js/2.7a5cc5c0.chunk.js.LICENSE.txt"
+    "main.css": "https://shanghavi-k.github.io/csb-y23ut/static/css/main.477bd1af.chunk.css",
+    "main.js": "https://shanghavi-k.github.io/csb-y23ut/static/js/main.a55a42eb.chunk.js",
+    "main.js.map": "https://shanghavi-k.github.io/csb-y23ut/static/js/main.a55a42eb.chunk.js.map",
+    "runtime-main.js": "https://shanghavi-k.github.io/csb-y23ut/static/js/runtime-main.f170e3a1.js",
+    "runtime-main.js.map": "https://shanghavi-k.github.io/csb-y23ut/static/js/runtime-main.f170e3a1.js.map",
+    "static/js/2.7a5cc5c0.chunk.js": "https://shanghavi-k.github.io/csb-y23ut/static/js/2.7a5cc5c0.chunk.js",
+    "static/js/2.7a5cc5c0.chunk.js.map": "https://shanghavi-k.github.io/csb-y23ut/static/js/2.7a5cc5c0.chunk.js.map",
+    "index.html": "https://shanghavi-k.github.io/csb-y23ut/index.html",
+    "static/css/main.477bd1af.chunk.css.map": "https://shanghavi-k.github.io/csb-y23ut/static/css/main.477bd1af.chunk.css.map",
+    "static/js/2.7a5cc5c0.chunk.js.LICENSE.txt": "https://shanghavi-k.github.io/csb-y23ut/static/js/2.7a5cc5c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c1e147a.js",
+    "static/js/runtime-main.f170e3a1.js",
     "static/js/2.7a5cc5c0.chunk.js",
-    "static/css/main.03762820.chunk.css",
-    "static/js/main.4a640084.chunk.js"
+    "static/css/main.477bd1af.chunk.css",
+    "static/js/main.a55a42eb.chunk.js"
   ]
 }
